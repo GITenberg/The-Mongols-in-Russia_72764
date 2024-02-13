@@ -1,0 +1,35 @@
+_repo: The-Mongols-in-Russia_72764
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curtin, Jeremiah
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '1053'
+    url: http://www.gutenberg.org/2009/agents/1053
+    wikipedia: https://en.wikipedia.org/wiki/Jeremiah_Curtin
+description: 'Companion volume to the author''s The Mongols, a history, #72183.'
+gutenberg_issued: '2024-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72764'
+  lccn: 08030035
+language: en
+pgterms:marc904: https://archive.org/details/mongolsinrussia00curtuoft/page/n13/mode/2up
+pgterms:marc905: 20200418080706curtin
+pgterms:marc906: '1908'
+pgterms:marc907: '1908'
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aBoston :$bLittle Brown & Company, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mongols -- Russia'
+- !lcsh 'Russia -- History -- To 1533'
+- !lcc 'DK'
+- GITenberg
+title: The Mongols in Russia
+url: http://www.gutenberg.org/ebooks/72764

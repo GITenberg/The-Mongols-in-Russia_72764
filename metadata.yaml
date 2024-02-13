@@ -1,5 +1,8 @@
 _repo: The-Mongols-in-Russia_72764
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72764-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Curtin, Jeremiah
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1053
     wikipedia: https://en.wikipedia.org/wiki/Jeremiah_Curtin
 description: 'Companion volume to the author''s The Mongols, a history, #72183.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72764#The-Mongols-in-Russia
 gutenberg_issued: '2024-01-20'
 gutenberg_type: Text
 identifiers:
